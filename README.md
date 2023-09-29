@@ -8,7 +8,7 @@
     <th>年份+等级</th>
     <th>题目数量</th>
     <tr>
-        <td>2019</td>
+        <td>2019CSP-S</td>
         <td>3+3</td>
     </tr>
 </table>
